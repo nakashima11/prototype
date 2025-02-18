@@ -4,4 +4,10 @@
 
 ![image](https://github.com/user-attachments/assets/bab74d07-a6be-4604-8de2-df3bd6245ed3)
 
+
+
+https://github.com/user-attachments/assets/cd13fb11-de34-4f14-87c6-5c9822819cc3
+
+
+
 Meta Quyuest上にカラーマップを張り付けたモデル図
