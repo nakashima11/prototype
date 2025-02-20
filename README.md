@@ -10,4 +10,4 @@ https://github.com/user-attachments/assets/cd13fb11-de34-4f14-87c6-5c9822819cc3
 
 
 
-Meta Quyuest上にカラーマップを張り付けたモデル図
+Meta Quest上にカラーマップを張り付けたモデル図
